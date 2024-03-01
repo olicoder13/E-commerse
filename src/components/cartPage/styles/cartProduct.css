@@ -1,0 +1,32 @@
+.cartProduct{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.cartProduct figure{
+    width: 75px;
+    margin: 20px;
+}
+
+
+.btn-auth{
+    padding: 10px 20px;
+    border: 1px solid brown;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.delete{
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+
+.pricesol{
+    margin-bottom: 20px;
+    color: gray;
+}

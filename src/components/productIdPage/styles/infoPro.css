@@ -1,0 +1,64 @@
+.info__container{
+    padding: 20px;
+    text-align: justify;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.marca{
+    color: gray;
+    font-weight: lighter;
+}
+.titulo{
+ color: #515151;
+ margin-left: 20px;
+}
+
+.botones{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+}
+
+.btn{
+    padding: 15px 25px;
+    border: 1px solid gray;
+}
+.quantity{
+    padding: 14.5px;
+}
+
+.btn-quan{
+    margin-bottom: 15px;
+    color: gray;
+    font-weight: lighter;
+}
+.btn-price{
+    margin-bottom: 15px;
+    color: gray;
+    font-weight: lighter;
+}
+.price{
+    color: #111;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.btn-add{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 15px 20px;
+    color: #fff;
+    background-color: rgb(249, 22, 22);
+    font-family: bold;
+    font-size: 18px;
+}

@@ -1,0 +1,18 @@
+.headerNav{
+    display: flex;
+    justify-content: space-between;
+    flex: wrap;
+    padding: 20px;
+    align-items: center;
+}
+
+.headerNav__list{
+    display: flex;
+    gap: 20px;
+    flex: wrap;
+}
+
+.headerNav__list li{
+    font-size: 1.5rem;
+    
+}

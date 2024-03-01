@@ -1,0 +1,24 @@
+.productsContainer{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.filtersContainer{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.btn-darkMode{
+    padding: 10px 15px;
+    background-color: #000;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 15px;
+}

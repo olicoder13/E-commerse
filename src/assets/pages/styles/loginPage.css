@@ -1,0 +1,66 @@
+.formulario_register{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.form{
+    display: flex;
+    gap: 15px;
+    margin: 0;
+}
+
+.coditional{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+    padding: 0 5px;
+}
+
+.btn_enviar{
+    padding: 15px 50px;
+    border-radius: 10px;
+    background-color: rgb(55, 55, 228);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.btn_register{
+    font-weight: bold;
+    color: red;
+}
+
+.title-principal{
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.other_option{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+.log-out{
+    padding: 15px 50px;
+    background-color: #2656DF;
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+    transition: .5s;
+}
+
+.log-out:hover{
+    background-color: #16d750a5;
+    color: rgb(227, 40, 40);
+    transition: .5s;
+}

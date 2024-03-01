@@ -1,0 +1,22 @@
+.img{
+    min-width: 30px;
+    max-width: 85px;
+}
+.productBuyed{
+    margin: 5px 5px 15px 5px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.indila{
+    font-weight: bold;
+    color: rgb(23, 22, 22);
+    text-decoration: double;
+    
+}
+
+.quantity{
+    padding: 5px;
+    border: 1px solid;
+}

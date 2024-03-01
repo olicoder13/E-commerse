@@ -1,0 +1,15 @@
+.totaldiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 20px;
+    gap: 30px;
+}
+
+.buy{
+    padding: 15px 25px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border-radius: 15px;
+}

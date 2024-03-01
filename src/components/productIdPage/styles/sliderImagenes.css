@@ -1,0 +1,17 @@
+.galery{
+    display: flex;
+    justify-content: center;
+}
+.splide{
+    width: 250px;
+    text-align: center;  
+}
+
+.splide__slide{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+

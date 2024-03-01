@@ -1,0 +1,13 @@
+.title{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 5px;
+}
+
+.selectup{
+    text-align: center;
+    background-color: rgb(255, 254, 254);
+    border-radius: 5px;
+    border: 1px solid brown;
+    padding: 5px 10px;
+}
